@@ -38,7 +38,7 @@ body{
     float: left;
 }
 .menu .navbar ul li a{
-    font-size: 18px;
+    font-size: 16px;
     padding: 20px;
     color: #303030;
     display: block;
@@ -74,7 +74,7 @@ body{
    
 }
 .header-txt{
-    width: 55px;
+    width: 50%;
     padding-right: 35px;
 
 }
